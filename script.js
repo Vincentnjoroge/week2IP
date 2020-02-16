@@ -1,4 +1,4 @@
-
+//* names
 
 var akanMale = ['Kwasi', 'Kwadwo', 'Kwabena', 'Kwaku', 'Yaw', 'Kofi', 'Kwame'];
 var akanFemale = ['Akosua', 'Adwoa', 'Abenaa', 'Akua', 'Yaa', 'Afua', 'Ama'];
@@ -11,7 +11,7 @@ function results() {
     var gender= print();
     var day2=date.getDay();
     var akan; 
-
+//* results
     if(day <1 || day >31){
         alert("invalid date");
             return false;
@@ -20,7 +20,7 @@ function results() {
         alert("Invalid month");
         return false;
     }
-    if(year <1900 || year >2030){
+    if(year <1950 || year >2050){
             alert("invalid year");
             return false;
     }
@@ -41,3 +41,4 @@ function print(){
     }
 
 } 
+// end of js code
