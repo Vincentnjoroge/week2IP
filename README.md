@@ -3,6 +3,7 @@ THE AKAN WAY OF NAMING
 #
 #
 Project description
+#
 The is able to enter his/her birthday Credential then he/she will recieve an output of Akan Name
 
 Setup instructions
