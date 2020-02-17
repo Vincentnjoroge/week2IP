@@ -38,8 +38,3 @@ Terms
 #
 Privacy
 #
-Security
-#
-
-
-
