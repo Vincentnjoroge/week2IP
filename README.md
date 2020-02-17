@@ -42,7 +42,5 @@ Security
 #
 Status
 #
-Help
-#
 
 
