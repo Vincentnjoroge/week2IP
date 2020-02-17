@@ -6,7 +6,7 @@ The site created enables the user to be able to find out about the naming system
 #
 Setup instructions
 #
-html
+Html
 #
 css
 #
