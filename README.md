@@ -1,6 +1,5 @@
 THE AKAN WAY OF NAMING
 #
-
 Project description
 #
 the site created enables the user to be able to find out about the naming system of the akan and even is able to see what his name is.
