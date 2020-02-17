@@ -18,7 +18,7 @@ Google Fonts
 #
 Fontaswome
 #
-Technologies used
+Technologies used:
 #
 jQuery
 #
