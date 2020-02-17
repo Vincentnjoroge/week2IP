@@ -12,8 +12,6 @@ css
 #
 Javascript
 #
-jQuery
-#
 scss
 #
 Google Fonts
