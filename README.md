@@ -44,7 +44,5 @@ Status
 #
 Help
 #
-Contact GitHub
-#
-Pricing
-#
+
+
