@@ -16,8 +16,6 @@ scss
 #
 Google Fonts
 #
-Fontaswome
-#
 Technologies used:
 #
 jQuery
