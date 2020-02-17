@@ -31,7 +31,4 @@ License and Copyright information.
 Copyright Sherrif.io Digital LLC, Code released under the [MIT] license
 #
 2020 GitHub, Inc.
-#
-Terms
-#
 
