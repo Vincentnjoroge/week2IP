@@ -9,34 +9,39 @@ the site created enables the user to be able to find out about the naming system
 Setup instructions
 #
 html
+#
 css
+#
 Javascript
+#
 jQuery
+#
 scss
-Vendor
-Bootstrap
+#
 Google Fonts
+#
 Fontaswome
+#
 Technologies used
+#
 jQuery
-Bootstrap
-Google Fonts
-Fontaswome
-Link to live site on GitHub Pages
-View the page
-
+#
+Link to live site on GitHub Pages 
+#
+View the page https://vincentnjoroge.github.io/week2IP/
+#
 Contact information
-Facebook
-
+0771933091
+#
 License and Copyright information.
-Copyright Blackrock Digital LLC, Code released under the [MIT] license
-
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
+Copyright Sherrif.io Digital LLC, Code released under the [MIT] license
+#
+© 2020 GitHub, Inc.#
+Terms#
+Privacy#
+Security#
+Status#
+Help#
 Contact GitHub
 Pricing
 API
