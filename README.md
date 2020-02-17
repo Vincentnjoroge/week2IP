@@ -1,4 +1,3 @@
-
 THE AKAN WAY OF NAMING
 #
 
